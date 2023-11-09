@@ -9,3 +9,9 @@ their industry applications using Python and TensorFlow, and
 tackled real-world cases such as speech recognition, music synthesis,
 chatbots, machine translation, natural language processing, and more.
 
+The course involved 5 modules
+1. Neural Networks and Deep Learning
+2. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+3. Structuring Machine Learning Projects
+4. Convolutional Neural Networks
+5. Sequence Models
